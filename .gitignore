@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+experiments_logs/
+results/*.csv
+results/*.png
+results/*.npy
+data/SpokenArabicDigits/*.pt
+data/SpokenArabicDigits/*.npz
+data/SpokenArabicDigits/*.csv
+data/SpokenArabicDigits/*.json
+data_preprocessing/
